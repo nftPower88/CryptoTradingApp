@@ -8,10 +8,9 @@ const API_URL = "http://localhost:8080/api/";
 
 const Login = () => {
   const [open, setOpen] = useState(false);  
-  const { setToken, count } = useStore(
+  const { setToken } = useStore(
     (store) => ({
-      setToken: store.setToken,
-      count: store.count,
+      setToken: store.setToken
     }),
     shallow
   );

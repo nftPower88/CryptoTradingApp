@@ -13,11 +13,7 @@ type UseStoreState = typeof initializeStore extends (
   : never;
 
 const initialState = {
-  lastUpdate: 0,
-  light: false,
-  count: 0,
-  
-  token: '',
+  token: ''
 };
 
 const zustandContext = createContext<UseStoreState>();
@@ -27,32 +23,11 @@ export const useStore = zustandContext.useStore;
 export const initializeStore = (preloadedState = {}) => {
   return create(
     combine({ ...initialState, ...preloadedState }, (set, get) => ({
-      reset2: () => {
-        set({ count: 100 });
-      },
-      tick: (lastUpdate: number, light: boolean) => {
-        set({
-          lastUpdate,
-          light: !!light,
-        });
-      },
-      increment: () => {
-        set({
-          count: get().count + 1,
-        });
-      },
-      decrement: () => {
-        set({
-          count: get().count - 1,
-        });
-      },
       reset: () => {
         set({
-          count: initialState.count,
-        });
+          token: get().token
+        })
       },
-
-
       setToken: (token: string) => {
         set({
           token: token,
