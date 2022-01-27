@@ -1,0 +1,98 @@
+.modal {
+    z-index: 3;
+    padding-top: 100px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+}
+
+.modalContent {
+    margin: auto;
+    background-color: #fff;
+    position: relative;
+    padding: 0;
+    outline: 0;
+    width: 600px;
+}
+
+.container {
+    padding: 0.01em 16px;
+}
+
+.container:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.containerfooter {
+    padding: 0.5rem 16px;
+    text-align: right;
+}
+
+.close {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    user-select: none;
+    border: none;
+    display: inline-block;
+    padding: 4px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    font-size: 1.5em;
+}
+
+.close:hover {
+    color: red;
+}
+
+.login {
+    user-select: none;
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    font-size: 1em;
+}
+
+.login:hover {
+    box-shadow:0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.line {
+    padding: 0.5rem 0;
+    display: grid;
+}
+
+.buttonmodal {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    font-size: 1.07em;
+    cursor: pointer;
+}
+
+.inputbox {
+    line-height: 1em;
+    padding: 0.7em;
+    border-radius: 10px;
+}

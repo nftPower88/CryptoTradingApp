@@ -1,0 +1,32 @@
+.board {
+    border-radius: 10px;
+    border: 1px solid #888;
+    box-shadow:0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    width: 50%;
+    margin: 1em auto;
+    padding: 1rem 0;
+}
+
+.line {
+    padding: 0.5em 1em;   
+    display: flex; 
+    text-align: center;
+    align-items: center;
+}
+
+.icon {
+    width: 10%;
+    min-width: 32px;
+}
+
+.name {
+    width: 30%;
+}
+
+.price {
+    width: 30%;
+}
+
+.control {
+    width: 30%;
+}
