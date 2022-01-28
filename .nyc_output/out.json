@@ -8,217 +8,147 @@
           "column": 21
         },
         "end": {
-          "line": 19,
+          "line": 17,
           "column": 1
         }
       },
       "1": {
         "start": {
-          "line": 21,
+          "line": 19,
           "column": 23
         },
         "end": {
-          "line": 21,
+          "line": 19,
           "column": 53
         }
       },
       "2": {
         "start": {
-          "line": 22,
+          "line": 20,
           "column": 24
         },
         "end": {
-          "line": 22,
+          "line": 20,
           "column": 47
         }
       },
       "3": {
         "start": {
-          "line": 23,
+          "line": 21,
           "column": 24
         },
         "end": {
-          "line": 23,
+          "line": 21,
           "column": 47
         }
       },
       "4": {
         "start": {
-          "line": 25,
+          "line": 23,
           "column": 31
         },
         "end": {
-          "line": 54,
+          "line": 33,
           "column": 1
         }
       },
       "5": {
         "start": {
-          "line": 26,
+          "line": 24,
           "column": 2
         },
         "end": {
-          "line": 53,
+          "line": 32,
           "column": 4
         }
       },
       "6": {
         "start": {
-          "line": 27,
-          "column": 67
+          "line": 25,
+          "column": 62
         },
         "end": {
-          "line": 52,
+          "line": 31,
           "column": 5
         }
       },
       "7": {
         "start": {
-          "line": 29,
+          "line": 27,
           "column": 8
         },
         "end": {
           "line": 29,
-          "column": 28
+          "column": 10
         }
       },
       "8": {
         "start": {
-          "line": 32,
-          "column": 8
+          "line": 35,
+          "column": 30
         },
         "end": {
-          "line": 35,
-          "column": 11
+          "line": 51,
+          "column": 1
         }
       },
       "9": {
         "start": {
-          "line": 38,
-          "column": 8
+          "line": 37,
+          "column": 2
         },
         "end": {
-          "line": 40,
-          "column": 11
+          "line": 39,
+          "column": 3
         }
       },
       "10": {
         "start": {
-          "line": 43,
-          "column": 8
+          "line": 38,
+          "column": 4
         },
         "end": {
-          "line": 45,
-          "column": 11
+          "line": 38,
+          "column": 47
         }
       },
       "11": {
         "start": {
-          "line": 48,
-          "column": 8
+          "line": 38,
+          "column": 17
         },
         "end": {
-          "line": 50,
-          "column": 11
+          "line": 38,
+          "column": 46
         }
       },
       "12": {
         "start": {
-          "line": 56,
-          "column": 30
+          "line": 42,
+          "column": 2
         },
         "end": {
-          "line": 79,
-          "column": 1
+          "line": 42,
+          "column": 49
         }
       },
       "13": {
         "start": {
-          "line": 58,
+          "line": 50,
           "column": 2
         },
         "end": {
-          "line": 60,
-          "column": 3
+          "line": 50,
+          "column": 21
         }
       },
       "14": {
         "start": {
-          "line": 59,
-          "column": 4
-        },
-        "end": {
-          "line": 59,
-          "column": 47
-        }
-      },
-      "15": {
-        "start": {
-          "line": 59,
-          "column": 17
-        },
-        "end": {
-          "line": 59,
-          "column": 46
-        }
-      },
-      "16": {
-        "start": {
-          "line": 63,
-          "column": 2
-        },
-        "end": {
-          "line": 63,
-          "column": 49
-        }
-      },
-      "17": {
-        "start": {
-          "line": 69,
-          "column": 2
-        },
-        "end": {
-          "line": 76,
-          "column": 21
-        }
-      },
-      "18": {
-        "start": {
-          "line": 70,
-          "column": 4
-        },
-        "end": {
-          "line": 75,
-          "column": 5
-        }
-      },
-      "19": {
-        "start": {
-          "line": 71,
-          "column": 6
-        },
-        "end": {
-          "line": 74,
-          "column": 9
-        }
-      },
-      "20": {
-        "start": {
-          "line": 78,
-          "column": 2
-        },
-        "end": {
-          "line": 78,
-          "column": 21
-        }
-      },
-      "21": {
-        "start": {
-          "line": 78,
+          "line": 50,
           "column": 15
         },
         "end": {
-          "line": 78,
+          "line": 50,
           "column": 20
         }
       }
@@ -228,276 +158,156 @@
         "name": "(anonymous_0)",
         "decl": {
           "start": {
-            "line": 25,
+            "line": 23,
             "column": 31
           },
           "end": {
-            "line": 25,
+            "line": 23,
             "column": 32
           }
         },
         "loc": {
           "start": {
-            "line": 25,
+            "line": 23,
             "column": 56
           },
           "end": {
-            "line": 54,
+            "line": 33,
             "column": 1
           }
         },
-        "line": 25
+        "line": 23
       },
       "1": {
         "name": "(anonymous_1)",
         "decl": {
           "start": {
-            "line": 27,
+            "line": 25,
             "column": 52
           },
           "end": {
-            "line": 27,
+            "line": 25,
             "column": 53
           }
         },
         "loc": {
           "start": {
-            "line": 27,
-            "column": 67
+            "line": 25,
+            "column": 62
           },
           "end": {
-            "line": 52,
+            "line": 31,
             "column": 5
           }
         },
-        "line": 27
+        "line": 25
       },
       "2": {
         "name": "(anonymous_2)",
         "decl": {
           "start": {
-            "line": 28,
-            "column": 14
+            "line": 26,
+            "column": 16
           },
           "end": {
-            "line": 28,
-            "column": 15
+            "line": 26,
+            "column": 17
           }
         },
         "loc": {
           "start": {
-            "line": 28,
-            "column": 20
+            "line": 26,
+            "column": 35
           },
           "end": {
             "line": 30,
             "column": 7
           }
         },
-        "line": 28
+        "line": 26
       },
       "3": {
         "name": "(anonymous_3)",
         "decl": {
           "start": {
-            "line": 31,
-            "column": 12
-          },
-          "end": {
-            "line": 31,
-            "column": 13
-          }
-        },
-        "loc": {
-          "start": {
-            "line": 31,
-            "column": 52
-          },
-          "end": {
-            "line": 36,
-            "column": 7
-          }
-        },
-        "line": 31
-      },
-      "4": {
-        "name": "(anonymous_4)",
-        "decl": {
-          "start": {
-            "line": 37,
-            "column": 17
-          },
-          "end": {
-            "line": 37,
-            "column": 18
-          }
-        },
-        "loc": {
-          "start": {
-            "line": 37,
-            "column": 23
-          },
-          "end": {
-            "line": 41,
-            "column": 7
-          }
-        },
-        "line": 37
-      },
-      "5": {
-        "name": "(anonymous_5)",
-        "decl": {
-          "start": {
-            "line": 42,
-            "column": 17
-          },
-          "end": {
-            "line": 42,
-            "column": 18
-          }
-        },
-        "loc": {
-          "start": {
-            "line": 42,
-            "column": 23
-          },
-          "end": {
-            "line": 46,
-            "column": 7
-          }
-        },
-        "line": 42
-      },
-      "6": {
-        "name": "(anonymous_6)",
-        "decl": {
-          "start": {
-            "line": 47,
-            "column": 13
-          },
-          "end": {
-            "line": 47,
-            "column": 14
-          }
-        },
-        "loc": {
-          "start": {
-            "line": 47,
-            "column": 19
-          },
-          "end": {
-            "line": 51,
-            "column": 7
-          }
-        },
-        "line": 47
-      },
-      "7": {
-        "name": "(anonymous_7)",
-        "decl": {
-          "start": {
-            "line": 56,
+            "line": 35,
             "column": 30
           },
           "end": {
-            "line": 56,
+            "line": 35,
             "column": 31
           }
         },
         "loc": {
           "start": {
-            "line": 56,
+            "line": 35,
             "column": 62
           },
           "end": {
-            "line": 79,
+            "line": 51,
             "column": 1
           }
         },
-        "line": 56
+        "line": 35
       },
-      "8": {
-        "name": "(anonymous_8)",
+      "4": {
+        "name": "(anonymous_4)",
         "decl": {
           "start": {
-            "line": 59,
+            "line": 38,
             "column": 11
           },
           "end": {
-            "line": 59,
+            "line": 38,
             "column": 12
           }
         },
         "loc": {
           "start": {
-            "line": 59,
+            "line": 38,
             "column": 17
           },
           "end": {
-            "line": 59,
+            "line": 38,
             "column": 46
           }
         },
-        "line": 59
+        "line": 38
       },
-      "9": {
-        "name": "(anonymous_9)",
+      "5": {
+        "name": "(anonymous_5)",
         "decl": {
           "start": {
-            "line": 69,
-            "column": 18
-          },
-          "end": {
-            "line": 69,
-            "column": 19
-          }
-        },
-        "loc": {
-          "start": {
-            "line": 69,
-            "column": 24
-          },
-          "end": {
-            "line": 76,
-            "column": 3
-          }
-        },
-        "line": 69
-      },
-      "10": {
-        "name": "(anonymous_10)",
-        "decl": {
-          "start": {
-            "line": 78,
+            "line": 50,
             "column": 9
           },
           "end": {
-            "line": 78,
+            "line": 50,
             "column": 10
           }
         },
         "loc": {
           "start": {
-            "line": 78,
+            "line": 50,
             "column": 15
           },
           "end": {
-            "line": 78,
+            "line": 50,
             "column": 20
           }
         },
-        "line": 78
+        "line": 50
       }
     },
     "branchMap": {
       "0": {
         "loc": {
           "start": {
-            "line": 25,
+            "line": 23,
             "column": 32
           },
           "end": {
-            "line": 25,
+            "line": 23,
             "column": 51
           }
         },
@@ -505,25 +315,25 @@
         "locations": [
           {
             "start": {
-              "line": 25,
+              "line": 23,
               "column": 49
             },
             "end": {
-              "line": 25,
+              "line": 23,
               "column": 51
             }
           }
         ],
-        "line": 25
+        "line": 23
       },
       "1": {
         "loc": {
           "start": {
-            "line": 58,
+            "line": 37,
             "column": 2
           },
           "end": {
-            "line": 60,
+            "line": 39,
             "column": 3
           }
         },
@@ -531,35 +341,35 @@
         "locations": [
           {
             "start": {
-              "line": 58,
+              "line": 37,
               "column": 2
             },
             "end": {
-              "line": 60,
+              "line": 39,
               "column": 3
             }
           },
           {
             "start": {
-              "line": 58,
+              "line": 37,
               "column": 2
             },
             "end": {
-              "line": 60,
+              "line": 39,
               "column": 3
             }
           }
         ],
-        "line": 58
+        "line": 37
       },
       "2": {
         "loc": {
           "start": {
-            "line": 63,
+            "line": 42,
             "column": 10
           },
           "end": {
-            "line": 63,
+            "line": 42,
             "column": 48
           }
         },
@@ -567,160 +377,68 @@
         "locations": [
           {
             "start": {
-              "line": 63,
+              "line": 42,
               "column": 10
             },
             "end": {
-              "line": 63,
+              "line": 42,
               "column": 15
             }
           },
           {
             "start": {
-              "line": 63,
+              "line": 42,
               "column": 19
             },
             "end": {
-              "line": 63,
+              "line": 42,
               "column": 48
             }
           }
         ],
-        "line": 63
-      },
-      "3": {
-        "loc": {
-          "start": {
-            "line": 70,
-            "column": 4
-          },
-          "end": {
-            "line": 75,
-            "column": 5
-          }
-        },
-        "type": "if",
-        "locations": [
-          {
-            "start": {
-              "line": 70,
-              "column": 4
-            },
-            "end": {
-              "line": 75,
-              "column": 5
-            }
-          },
-          {
-            "start": {
-              "line": 70,
-              "column": 4
-            },
-            "end": {
-              "line": 75,
-              "column": 5
-            }
-          }
-        ],
-        "line": 70
-      },
-      "4": {
-        "loc": {
-          "start": {
-            "line": 70,
-            "column": 8
-          },
-          "end": {
-            "line": 70,
-            "column": 29
-          }
-        },
-        "type": "binary-expr",
-        "locations": [
-          {
-            "start": {
-              "line": 70,
-              "column": 8
-            },
-            "end": {
-              "line": 70,
-              "column": 20
-            }
-          },
-          {
-            "start": {
-              "line": 70,
-              "column": 24
-            },
-            "end": {
-              "line": 70,
-              "column": 29
-            }
-          }
-        ],
-        "line": 70
+        "line": 42
       }
     },
     "s": {
-      "0": 7,
-      "1": 7,
-      "2": 7,
-      "3": 7,
-      "4": 7,
-      "5": 14,
-      "6": 14,
-      "7": 0,
-      "8": 1,
-      "9": 0,
-      "10": 0,
-      "11": 0,
-      "12": 7,
-      "13": 13,
-      "14": 13,
-      "15": 13,
-      "16": 0,
-      "17": 0,
-      "18": 0,
-      "19": 0,
-      "20": 0,
-      "21": 0
+      "0": 17,
+      "1": 17,
+      "2": 17,
+      "3": 17,
+      "4": 17,
+      "5": 20,
+      "6": 20,
+      "7": 9,
+      "8": 17,
+      "9": 32,
+      "10": 7,
+      "11": 7,
+      "12": 25,
+      "13": 25,
+      "14": 13
     },
     "f": {
-      "0": 14,
-      "1": 14,
-      "2": 0,
-      "3": 1,
-      "4": 0,
-      "5": 0,
-      "6": 0,
-      "7": 13,
-      "8": 13,
-      "9": 0,
-      "10": 0
+      "0": 20,
+      "1": 20,
+      "2": 9,
+      "3": 32,
+      "4": 7,
+      "5": 13
     },
     "b": {
       "0": [
-        13
+        20
       ],
       "1": [
-        13,
-        0
+        7,
+        25
       ],
       "2": [
-        0,
-        0
-      ],
-      "3": [
-        0,
-        0
-      ],
-      "4": [
-        0,
-        0
+        25,
+        13
       ]
     },
     "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
-    "hash": "a2fb880102c0d943e221bba395d4ba8100f0db13"
+    "hash": "7c9a54aa9239eae31c4689994900b95c411fa1be"
   },
   "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\pages\\_app.tsx": {
     "path": "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\pages\\_app.tsx",
@@ -728,20 +446,30 @@
       "0": {
         "start": {
           "line": 5,
-          "column": 22
+          "column": 20
         },
         "end": {
           "line": 5,
-          "column": 67
+          "column": 37
         }
       },
       "1": {
         "start": {
-          "line": 6,
+          "line": 7,
+          "column": 22
+        },
+        "end": {
+          "line": 7,
+          "column": 67
+        }
+      },
+      "2": {
+        "start": {
+          "line": 8,
           "column": 2
         },
         "end": {
-          "line": 10,
+          "line": 14,
           "column": 4
         }
       }
@@ -751,363 +479,61 @@
         "name": "App",
         "decl": {
           "start": {
-            "line": 4,
+            "line": 6,
             "column": 24
           },
           "end": {
-            "line": 4,
+            "line": 6,
             "column": 27
           }
         },
         "loc": {
           "start": {
-            "line": 4,
+            "line": 6,
             "column": 64
           },
           "end": {
-            "line": 11,
+            "line": 15,
             "column": 1
           }
         },
-        "line": 4
+        "line": 6
       }
     },
     "branchMap": {},
     "s": {
-      "0": 13,
-      "1": 13
+      "0": 17,
+      "1": 32,
+      "2": 32
     },
     "f": {
-      "0": 13
+      "0": 32
     },
     "b": {},
     "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
-    "hash": "b3fdd0f76ba3913d41f5b9cc640ebdeca2f60297"
+    "hash": "65abaf8f532f9860e31ea3e30121a92d525b62ac"
   },
-  "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\lib\\useInterval.ts": {
-    "path": "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\lib\\useInterval.ts",
+  "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\User\\index.tsx": {
+    "path": "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\User\\index.tsx",
     "statementMap": {
       "0": {
         "start": {
           "line": 4,
-          "column": 20
+          "column": 13
         },
         "end": {
-          "line": 17,
+          "line": 25,
           "column": 1
         }
       },
       "1": {
         "start": {
           "line": 5,
-          "column": 24
-        },
-        "end": {
-          "line": 5,
-          "column": 37
-        }
-      },
-      "2": {
-        "start": {
-          "line": 6,
-          "column": 2
-        },
-        "end": {
-          "line": 8,
-          "column": 17
-        }
-      },
-      "3": {
-        "start": {
-          "line": 7,
-          "column": 4
-        },
-        "end": {
-          "line": 7,
-          "column": 37
-        }
-      },
-      "4": {
-        "start": {
-          "line": 9,
-          "column": 2
-        },
-        "end": {
-          "line": 16,
-          "column": 14
-        }
-      },
-      "5": {
-        "start": {
-          "line": 10,
           "column": 20
         },
         "end": {
           "line": 10,
-          "column": 70
-        }
-      },
-      "6": {
-        "start": {
-          "line": 10,
-          "column": 40
-        },
-        "end": {
-          "line": 10,
-          "column": 70
-        }
-      },
-      "7": {
-        "start": {
-          "line": 12,
-          "column": 4
-        },
-        "end": {
-          "line": 15,
-          "column": 5
-        }
-      },
-      "8": {
-        "start": {
-          "line": 13,
-          "column": 17
-        },
-        "end": {
-          "line": 13,
-          "column": 44
-        }
-      },
-      "9": {
-        "start": {
-          "line": 14,
-          "column": 6
-        },
-        "end": {
-          "line": 14,
-          "column": 37
-        }
-      },
-      "10": {
-        "start": {
-          "line": 14,
-          "column": 19
-        },
-        "end": {
-          "line": 14,
-          "column": 36
-        }
-      }
-    },
-    "fnMap": {
-      "0": {
-        "name": "(anonymous_0)",
-        "decl": {
-          "start": {
-            "line": 4,
-            "column": 20
-          },
-          "end": {
-            "line": 4,
-            "column": 21
-          }
-        },
-        "loc": {
-          "start": {
-            "line": 4,
-            "column": 54
-          },
-          "end": {
-            "line": 17,
-            "column": 1
-          }
-        },
-        "line": 4
-      },
-      "1": {
-        "name": "(anonymous_1)",
-        "decl": {
-          "start": {
-            "line": 6,
-            "column": 12
-          },
-          "end": {
-            "line": 6,
-            "column": 13
-          }
-        },
-        "loc": {
-          "start": {
-            "line": 6,
-            "column": 18
-          },
-          "end": {
-            "line": 8,
-            "column": 3
-          }
-        },
-        "line": 6
-      },
-      "2": {
-        "name": "(anonymous_2)",
-        "decl": {
-          "start": {
-            "line": 9,
-            "column": 12
-          },
-          "end": {
-            "line": 9,
-            "column": 13
-          }
-        },
-        "loc": {
-          "start": {
-            "line": 9,
-            "column": 18
-          },
-          "end": {
-            "line": 16,
-            "column": 3
-          }
-        },
-        "line": 9
-      },
-      "3": {
-        "name": "(anonymous_3)",
-        "decl": {
-          "start": {
-            "line": 10,
-            "column": 20
-          },
-          "end": {
-            "line": 10,
-            "column": 21
-          }
-        },
-        "loc": {
-          "start": {
-            "line": 10,
-            "column": 40
-          },
-          "end": {
-            "line": 10,
-            "column": 70
-          }
-        },
-        "line": 10
-      },
-      "4": {
-        "name": "(anonymous_4)",
-        "decl": {
-          "start": {
-            "line": 14,
-            "column": 13
-          },
-          "end": {
-            "line": 14,
-            "column": 14
-          }
-        },
-        "loc": {
-          "start": {
-            "line": 14,
-            "column": 19
-          },
-          "end": {
-            "line": 14,
-            "column": 36
-          }
-        },
-        "line": 14
-      }
-    },
-    "branchMap": {
-      "0": {
-        "loc": {
-          "start": {
-            "line": 12,
-            "column": 4
-          },
-          "end": {
-            "line": 15,
-            "column": 5
-          }
-        },
-        "type": "if",
-        "locations": [
-          {
-            "start": {
-              "line": 12,
-              "column": 4
-            },
-            "end": {
-              "line": 15,
-              "column": 5
-            }
-          },
-          {
-            "start": {
-              "line": 12,
-              "column": 4
-            },
-            "end": {
-              "line": 15,
-              "column": 5
-            }
-          }
-        ],
-        "line": 12
-      }
-    },
-    "s": {
-      "0": 7,
-      "1": 11,
-      "2": 11,
-      "3": 0,
-      "4": 11,
-      "5": 0,
-      "6": 0,
-      "7": 0,
-      "8": 0,
-      "9": 0,
-      "10": 0
-    },
-    "f": {
-      "0": 11,
-      "1": 0,
-      "2": 0,
-      "3": 0,
-      "4": 0
-    },
-    "b": {
-      "0": [
-        0,
-        0
-      ]
-    },
-    "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
-    "hash": "adf579dce08ae73aa2845e2f99cb81f79a84c836"
-  },
-  "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\clock.tsx": {
-    "path": "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\clock.tsx",
-    "statementMap": {
-      "0": {
-        "start": {
-          "line": 4,
-          "column": 17
-        },
-        "end": {
-          "line": 9,
-          "column": 1
-        }
-      },
-      "1": {
-        "start": {
-          "line": 5,
-          "column": 2
-        },
-        "end": {
-          "line": 8,
-          "column": 4
+          "column": 3
         }
       },
       "2": {
@@ -1116,58 +542,18 @@
           "column": 16
         },
         "end": {
-          "line": 6,
-          "column": 68
+          "line": 8,
+          "column": 5
         }
       },
       "3": {
         "start": {
           "line": 11,
-          "column": 19
-        },
-        "end": {
-          "line": 14,
-          "column": 1
-        }
-      },
-      "4": {
-        "start": {
-          "line": 13,
           "column": 2
         },
         "end": {
-          "line": 13,
-          "column": 47
-        }
-      },
-      "5": {
-        "start": {
-          "line": 16,
-          "column": 14
-        },
-        "end": {
-          "line": 36,
-          "column": 1
-        }
-      },
-      "6": {
-        "start": {
-          "line": 17,
-          "column": 32
-        },
-        "end": {
-          "line": 17,
-          "column": 42
-        }
-      },
-      "7": {
-        "start": {
-          "line": 18,
-          "column": 2
-        },
-        "end": {
-          "line": 35,
-          "column": 4
+          "line": 24,
+          "column": 3
         }
       }
     },
@@ -1177,20 +563,20 @@
         "decl": {
           "start": {
             "line": 4,
-            "column": 17
+            "column": 13
           },
           "end": {
             "line": 4,
-            "column": 18
+            "column": 14
           }
         },
         "loc": {
           "start": {
             "line": 4,
-            "column": 23
+            "column": 19
           },
           "end": {
-            "line": 9,
+            "line": 25,
             "column": 1
           }
         },
@@ -1214,195 +600,179 @@
             "column": 16
           },
           "end": {
-            "line": 6,
-            "column": 68
+            "line": 8,
+            "column": 5
           }
         },
         "line": 6
-      },
-      "2": {
-        "name": "(anonymous_2)",
-        "decl": {
-          "start": {
-            "line": 11,
-            "column": 19
-          },
-          "end": {
-            "line": 11,
-            "column": 20
-          }
-        },
-        "loc": {
-          "start": {
-            "line": 11,
-            "column": 37
-          },
-          "end": {
-            "line": 14,
-            "column": 1
-          }
-        },
-        "line": 11
-      },
-      "3": {
-        "name": "(anonymous_3)",
-        "decl": {
-          "start": {
-            "line": 16,
-            "column": 14
-          },
-          "end": {
-            "line": 16,
-            "column": 15
-          }
-        },
-        "loc": {
-          "start": {
-            "line": 16,
-            "column": 20
-          },
-          "end": {
-            "line": 36,
-            "column": 1
-          }
-        },
-        "line": 16
       }
     },
-    "branchMap": {
-      "0": {
-        "loc": {
-          "start": {
-            "line": 19,
-            "column": 20
-          },
-          "end": {
-            "line": 19,
-            "column": 40
-          }
-        },
-        "type": "cond-expr",
-        "locations": [
-          {
-            "start": {
-              "line": 19,
-              "column": 28
-            },
-            "end": {
-              "line": 19,
-              "column": 35
-            }
-          },
-          {
-            "start": {
-              "line": 19,
-              "column": 38
-            },
-            "end": {
-              "line": 19,
-              "column": 40
-            }
-          }
-        ],
-        "line": 19
-      }
-    },
+    "branchMap": {},
     "s": {
-      "0": 7,
-      "1": 11,
-      "2": 11,
-      "3": 7,
-      "4": 11,
-      "5": 7,
-      "6": 11,
-      "7": 11
+      "0": 17,
+      "1": 21,
+      "2": 30,
+      "3": 21
     },
     "f": {
-      "0": 11,
-      "1": 11,
-      "2": 11,
-      "3": 11
+      "0": 21,
+      "1": 30
     },
-    "b": {
-      "0": [
-        0,
-        11
-      ]
-    },
+    "b": {},
     "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
-    "hash": "623d3da6339d6fc5a8a1cc86faa8eca8ee70a5cb"
+    "hash": "d80d216daa88705d188b3fdecf336ac43ec10c80"
   },
-  "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\counter.tsx": {
-    "path": "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\counter.tsx",
+  "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\Login\\index.tsx": {
+    "path": "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\Login\\index.tsx",
     "statementMap": {
       "0": {
         "start": {
-          "line": 3,
-          "column": 19
+          "line": 7,
+          "column": 16
         },
         "end": {
-          "line": 15,
-          "column": 1
+          "line": 7,
+          "column": 44
         }
       },
       "1": {
         "start": {
-          "line": 4,
-          "column": 49
+          "line": 9,
+          "column": 14
         },
         "end": {
-          "line": 12,
-          "column": 3
+          "line": 67,
+          "column": 1
         }
       },
       "2": {
         "start": {
-          "line": 5,
-          "column": 16
+          "line": 10,
+          "column": 26
         },
         "end": {
           "line": 10,
-          "column": 5
+          "column": 41
         }
       },
       "3": {
         "start": {
-          "line": 14,
-          "column": 2
+          "line": 11,
+          "column": 23
         },
         "end": {
-          "line": 14,
-          "column": 48
+          "line": 16,
+          "column": 3
         }
       },
       "4": {
         "start": {
-          "line": 17,
+          "line": 12,
           "column": 16
         },
         "end": {
-          "line": 29,
-          "column": 1
+          "line": 14,
+          "column": 5
         }
       },
       "5": {
         "start": {
           "line": 18,
-          "column": 49
+          "column": 17
         },
         "end": {
-          "line": 18,
-          "column": 61
+          "line": 28,
+          "column": 3
         }
       },
       "6": {
         "start": {
           "line": 19,
+          "column": 4
+        },
+        "end": {
+          "line": 27,
+          "column": 9
+        }
+      },
+      "7": {
+        "start": {
+          "line": 25,
+          "column": 8
+        },
+        "end": {
+          "line": 25,
+          "column": 46
+        }
+      },
+      "8": {
+        "start": {
+          "line": 26,
+          "column": 8
+        },
+        "end": {
+          "line": 26,
+          "column": 43
+        }
+      },
+      "9": {
+        "start": {
+          "line": 30,
+          "column": 23
+        },
+        "end": {
+          "line": 34,
+          "column": 3
+        }
+      },
+      "10": {
+        "start": {
+          "line": 31,
+          "column": 4
+        },
+        "end": {
+          "line": 31,
+          "column": 23
+        }
+      },
+      "11": {
+        "start": {
+          "line": 33,
+          "column": 4
+        },
+        "end": {
+          "line": 33,
+          "column": 58
+        }
+      },
+      "12": {
+        "start": {
+          "line": 36,
           "column": 2
         },
         "end": {
-          "line": 28,
-          "column": 4
+          "line": 66,
+          "column": 3
+        }
+      },
+      "13": {
+        "start": {
+          "line": 38,
+          "column": 38
+        },
+        "end": {
+          "line": 38,
+          "column": 51
+        }
+      },
+      "14": {
+        "start": {
+          "line": 44,
+          "column": 42
+        },
+        "end": {
+          "line": 44,
+          "column": 56
         }
       }
     },
@@ -1411,114 +781,284 @@
         "name": "(anonymous_0)",
         "decl": {
           "start": {
-            "line": 3,
-            "column": 19
+            "line": 9,
+            "column": 14
           },
           "end": {
-            "line": 3,
-            "column": 20
+            "line": 9,
+            "column": 15
           }
         },
         "loc": {
           "start": {
-            "line": 3,
-            "column": 25
+            "line": 9,
+            "column": 20
           },
           "end": {
-            "line": 15,
+            "line": 67,
             "column": 1
           }
         },
-        "line": 3
+        "line": 9
       },
       "1": {
         "name": "(anonymous_1)",
         "decl": {
           "start": {
-            "line": 5,
+            "line": 12,
             "column": 4
           },
           "end": {
-            "line": 5,
+            "line": 12,
             "column": 5
           }
         },
         "loc": {
           "start": {
-            "line": 5,
+            "line": 12,
             "column": 16
           },
           "end": {
-            "line": 10,
+            "line": 14,
             "column": 5
           }
         },
-        "line": 5
+        "line": 12
       },
       "2": {
         "name": "(anonymous_2)",
         "decl": {
           "start": {
-            "line": 17,
-            "column": 16
+            "line": 18,
+            "column": 17
           },
           "end": {
-            "line": 17,
-            "column": 17
+            "line": 18,
+            "column": 18
           }
         },
         "loc": {
           "start": {
-            "line": 17,
-            "column": 22
+            "line": 18,
+            "column": 54
           },
           "end": {
-            "line": 29,
-            "column": 1
+            "line": 28,
+            "column": 3
           }
         },
-        "line": 17
+        "line": 18
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": {
+            "line": 24,
+            "column": 12
+          },
+          "end": {
+            "line": 24,
+            "column": 13
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 24,
+            "column": 26
+          },
+          "end": {
+            "line": 27,
+            "column": 7
+          }
+        },
+        "line": 24
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": {
+            "line": 30,
+            "column": 23
+          },
+          "end": {
+            "line": 30,
+            "column": 24
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 30,
+            "column": 41
+          },
+          "end": {
+            "line": 34,
+            "column": 3
+          }
+        },
+        "line": 30
+      },
+      "5": {
+        "name": "(anonymous_5)",
+        "decl": {
+          "start": {
+            "line": 38,
+            "column": 34
+          },
+          "end": {
+            "line": 38,
+            "column": 35
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 38,
+            "column": 38
+          },
+          "end": {
+            "line": 38,
+            "column": 51
+          }
+        },
+        "line": 38
+      },
+      "6": {
+        "name": "(anonymous_6)",
+        "decl": {
+          "start": {
+            "line": 44,
+            "column": 38
+          },
+          "end": {
+            "line": 44,
+            "column": 39
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 44,
+            "column": 42
+          },
+          "end": {
+            "line": 44,
+            "column": 56
+          }
+        },
+        "line": 44
       }
     },
-    "branchMap": {},
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {
+            "line": 41,
+            "column": 7
+          },
+          "end": {
+            "line": 64,
+            "column": 12
+          }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": {
+              "line": 41,
+              "column": 7
+            },
+            "end": {
+              "line": 41,
+              "column": 11
+            }
+          },
+          {
+            "start": {
+              "line": 41,
+              "column": 15
+            },
+            "end": {
+              "line": 64,
+              "column": 12
+            }
+          }
+        ],
+        "line": 41
+      }
+    },
     "s": {
-      "0": 7,
-      "1": 11,
-      "2": 11,
-      "3": 11,
-      "4": 7,
-      "5": 11,
-      "6": 11
+      "0": 17,
+      "1": 17,
+      "2": 50,
+      "3": 50,
+      "4": 59,
+      "5": 50,
+      "6": 9,
+      "7": 9,
+      "8": 9,
+      "9": 50,
+      "10": 9,
+      "11": 9,
+      "12": 50,
+      "13": 20,
+      "14": 10
     },
     "f": {
-      "0": 11,
-      "1": 11,
-      "2": 11
+      "0": 50,
+      "1": 59,
+      "2": 9,
+      "3": 9,
+      "4": 9,
+      "5": 20,
+      "6": 10
     },
-    "b": {},
+    "b": {
+      "0": [
+        50,
+        20
+      ]
+    },
     "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
-    "hash": "ac9862044cd446477be9837a143e510252820f76"
+    "hash": "2a95e57162d7b57c8d29c3dbb5cda748b6212b6b"
   },
-  "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\nav.tsx": {
-    "path": "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\nav.tsx",
+  "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\Navbar\\index.tsx": {
+    "path": "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\Navbar\\index.tsx",
     "statementMap": {
       "0": {
         "start": {
-          "line": 3,
+          "line": 7,
           "column": 12
         },
         "end": {
-          "line": 24,
+          "line": 47,
           "column": 1
         }
       },
       "1": {
         "start": {
-          "line": 4,
+          "line": 8,
+          "column": 20
+        },
+        "end": {
+          "line": 13,
+          "column": 3
+        }
+      },
+      "2": {
+        "start": {
+          "line": 9,
+          "column": 16
+        },
+        "end": {
+          "line": 11,
+          "column": 5
+        }
+      },
+      "3": {
+        "start": {
+          "line": 14,
           "column": 2
         },
         "end": {
-          "line": 23,
+          "line": 46,
           "column": 3
         }
       }
@@ -1528,103 +1068,21 @@
         "name": "(anonymous_0)",
         "decl": {
           "start": {
-            "line": 3,
+            "line": 7,
             "column": 12
           },
           "end": {
-            "line": 3,
+            "line": 7,
             "column": 13
           }
         },
         "loc": {
           "start": {
-            "line": 3,
+            "line": 7,
             "column": 18
           },
           "end": {
-            "line": 24,
-            "column": 1
-          }
-        },
-        "line": 3
-      }
-    },
-    "branchMap": {},
-    "s": {
-      "0": 7,
-      "1": 11
-    },
-    "f": {
-      "0": 11
-    },
-    "b": {},
-    "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
-    "hash": "1796adda2a54eb3036e59ccc3e321d9d867976b0"
-  },
-  "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\page.tsx": {
-    "path": "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\page.tsx",
-    "statementMap": {
-      "0": {
-        "start": {
-          "line": 8,
-          "column": 19
-        },
-        "end": {
-          "line": 8,
-          "column": 29
-        }
-      },
-      "1": {
-        "start": {
-          "line": 11,
-          "column": 2
-        },
-        "end": {
-          "line": 13,
-          "column": 11
-        }
-      },
-      "2": {
-        "start": {
-          "line": 12,
-          "column": 4
-        },
-        "end": {
-          "line": 12,
-          "column": 27
-        }
-      },
-      "3": {
-        "start": {
-          "line": 15,
-          "column": 2
-        },
-        "end": {
-          "line": 21,
-          "column": 4
-        }
-      }
-    },
-    "fnMap": {
-      "0": {
-        "name": "Page",
-        "decl": {
-          "start": {
-            "line": 7,
-            "column": 24
-          },
-          "end": {
-            "line": 7,
-            "column": 28
-          }
-        },
-        "loc": {
-          "start": {
-            "line": 7,
-            "column": 31
-          },
-          "end": {
-            "line": 22,
+            "line": 47,
             "column": 1
           }
         },
@@ -1634,176 +1092,665 @@
         "name": "(anonymous_1)",
         "decl": {
           "start": {
-            "line": 11,
-            "column": 14
+            "line": 9,
+            "column": 4
           },
           "end": {
-            "line": 11,
-            "column": 15
+            "line": 9,
+            "column": 5
           }
         },
         "loc": {
           "start": {
-            "line": 11,
-            "column": 20
+            "line": 9,
+            "column": 16
           },
           "end": {
-            "line": 13,
-            "column": 3
+            "line": 11,
+            "column": 5
           }
         },
-        "line": 11
+        "line": 9
       }
     },
-    "branchMap": {},
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {
+            "line": 24,
+            "column": 9
+          },
+          "end": {
+            "line": 24,
+            "column": 47
+          }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": {
+              "line": 24,
+              "column": 29
+            },
+            "end": {
+              "line": 24,
+              "column": 36
+            }
+          },
+          {
+            "start": {
+              "line": 24,
+              "column": 39
+            },
+            "end": {
+              "line": 24,
+              "column": 47
+            }
+          }
+        ],
+        "line": 24
+      }
+    },
     "s": {
-      "0": 11,
-      "1": 11,
-      "2": 0,
-      "3": 11
+      "0": 17,
+      "1": 41,
+      "2": 50,
+      "3": 41
     },
     "f": {
-      "0": 11,
-      "1": 0
+      "0": 41,
+      "1": 50
     },
-    "b": {},
+    "b": {
+      "0": [
+        21,
+        20
+      ]
+    },
     "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
-    "hash": "70f791376e49410ff72099bdd618784c1890278d"
+    "hash": "01532886291c36609eace7f60b2dc126c12101fd"
   },
-  "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\pages\\ssg.tsx": {
-    "path": "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\pages\\ssg.tsx",
+  "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\Assets\\index.tsx": {
+    "path": "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\Assets\\index.tsx",
     "statementMap": {
       "0": {
         "start": {
-          "line": 4,
-          "column": 2
+          "line": 5,
+          "column": 15
         },
         "end": {
-          "line": 4,
-          "column": 18
+          "line": 51,
+          "column": 3
         }
       },
       "1": {
         "start": {
+          "line": 6,
+          "column": 34
+        },
+        "end": {
+          "line": 6,
+          "column": 49
+        }
+      },
+      "2": {
+        "start": {
+          "line": 8,
+          "column": 32
+        },
+        "end": {
           "line": 12,
+          "column": 5
+        }
+      },
+      "3": {
+        "start": {
+          "line": 9,
+          "column": 8
+        },
+        "end": {
+          "line": 11,
+          "column": 9
+        }
+      },
+      "4": {
+        "start": {
+          "line": 10,
+          "column": 12
+        },
+        "end": {
+          "line": 10,
+          "column": 22
+        }
+      },
+      "5": {
+        "start": {
+          "line": 14,
+          "column": 22
+        },
+        "end": {
+          "line": 16,
+          "column": 5
+        }
+      },
+      "6": {
+        "start": {
+          "line": 15,
+          "column": 8
+        },
+        "end": {
+          "line": 15,
+          "column": 47
+        }
+      },
+      "7": {
+        "start": {
+          "line": 18,
+          "column": 4
+        },
+        "end": {
+          "line": 18,
+          "column": 107
+        }
+      },
+      "8": {
+        "start": {
+          "line": 18,
+          "column": 19
+        },
+        "end": {
+          "line": 18,
+          "column": 107
+        }
+      },
+      "9": {
+        "start": {
+          "line": 20,
+          "column": 4
+        },
+        "end": {
+          "line": 50,
+          "column": 5
+        }
+      },
+      "10": {
+        "start": {
+          "line": 25,
+          "column": 32
+        },
+        "end": {
+          "line": 25,
+          "column": 85
+        }
+      },
+      "11": {
+        "start": {
+          "line": 26,
+          "column": 16
+        },
+        "end": {
+          "line": 26,
+          "column": 51
+        }
+      },
+      "12": {
+        "start": {
+          "line": 26,
+          "column": 44
+        },
+        "end": {
+          "line": 26,
+          "column": 51
+        }
+      },
+      "13": {
+        "start": {
+          "line": 27,
+          "column": 16
+        },
+        "end": {
+          "line": 42,
+          "column": 18
+        }
+      },
+      "14": {
+        "start": {
+          "line": 36,
+          "column": 81
+        },
+        "end": {
+          "line": 36,
+          "column": 99
+        }
+      },
+      "15": {
+        "start": {
+          "line": 37,
+          "column": 81
+        },
+        "end": {
+          "line": 37,
+          "column": 100
+        }
+      },
+      "16": {
+        "start": {
+          "line": 47,
+          "column": 49
+        },
+        "end": {
+          "line": 47,
+          "column": 67
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 5,
+            "column": 15
+          },
+          "end": {
+            "line": 5,
+            "column": 16
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 21
+          },
+          "end": {
+            "line": 51,
+            "column": 3
+          }
+        },
+        "line": 5
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": {
+            "line": 8,
+            "column": 53
+          },
+          "end": {
+            "line": 8,
+            "column": 54
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 9,
+            "column": 8
+          },
+          "end": {
+            "line": 11,
+            "column": 9
+          }
+        },
+        "line": 9
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": {
+            "line": 9,
+            "column": 74
+          },
+          "end": {
+            "line": 9,
+            "column": 75
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 10,
+            "column": 12
+          },
+          "end": {
+            "line": 10,
+            "column": 22
+          }
+        },
+        "line": 10
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": {
+            "line": 14,
+            "column": 22
+          },
+          "end": {
+            "line": 14,
+            "column": 23
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 14,
+            "column": 34
+          },
+          "end": {
+            "line": 16,
+            "column": 5
+          }
+        },
+        "line": 14
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": {
+            "line": 24,
+            "column": 27
+          },
+          "end": {
+            "line": 24,
+            "column": 28
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 24,
+            "column": 54
+          },
+          "end": {
+            "line": 43,
+            "column": 13
+          }
+        },
+        "line": 24
+      },
+      "5": {
+        "name": "(anonymous_5)",
+        "decl": {
+          "start": {
+            "line": 36,
+            "column": 77
+          },
+          "end": {
+            "line": 36,
+            "column": 78
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 36,
+            "column": 81
+          },
+          "end": {
+            "line": 36,
+            "column": 99
+          }
+        },
+        "line": 36
+      },
+      "6": {
+        "name": "(anonymous_6)",
+        "decl": {
+          "start": {
+            "line": 37,
+            "column": 77
+          },
+          "end": {
+            "line": 37,
+            "column": 78
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 37,
+            "column": 81
+          },
+          "end": {
+            "line": 37,
+            "column": 100
+          }
+        },
+        "line": 37
+      },
+      "7": {
+        "name": "(anonymous_7)",
+        "decl": {
+          "start": {
+            "line": 47,
+            "column": 45
+          },
+          "end": {
+            "line": 47,
+            "column": 46
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 47,
+            "column": 49
+          },
+          "end": {
+            "line": 47,
+            "column": 67
+          }
+        },
+        "line": 47
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {
+            "line": 18,
+            "column": 4
+          },
+          "end": {
+            "line": 18,
+            "column": 107
+          }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": {
+              "line": 18,
+              "column": 4
+            },
+            "end": {
+              "line": 18,
+              "column": 107
+            }
+          },
+          {
+            "start": {
+              "line": 18,
+              "column": 4
+            },
+            "end": {
+              "line": 18,
+              "column": 107
+            }
+          }
+        ],
+        "line": 18
+      },
+      "1": {
+        "loc": {
+          "start": {
+            "line": 26,
+            "column": 16
+          },
+          "end": {
+            "line": 26,
+            "column": 51
+          }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": {
+              "line": 26,
+              "column": 16
+            },
+            "end": {
+              "line": 26,
+              "column": 51
+            }
+          },
+          {
+            "start": {
+              "line": 26,
+              "column": 16
+            },
+            "end": {
+              "line": 26,
+              "column": 51
+            }
+          }
+        ],
+        "line": 26
+      },
+      "2": {
+        "loc": {
+          "start": {
+            "line": 26,
+            "column": 20
+          },
+          "end": {
+            "line": 26,
+            "column": 42
+          }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": {
+              "line": 26,
+              "column": 20
+            },
+            "end": {
+              "line": 26,
+              "column": 27
+            }
+          },
+          {
+            "start": {
+              "line": 26,
+              "column": 31
+            },
+            "end": {
+              "line": 26,
+              "column": 42
+            }
+          }
+        ],
+        "line": 26
+      },
+      "3": {
+        "loc": {
+          "start": {
+            "line": 47,
+            "column": 102
+          },
+          "end": {
+            "line": 47,
+            "column": 116
+          }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": {
+              "line": 47,
+              "column": 109
+            },
+            "end": {
+              "line": 47,
+              "column": 112
+            }
+          },
+          {
+            "start": {
+              "line": 47,
+              "column": 113
+            },
+            "end": {
+              "line": 47,
+              "column": 116
+            }
+          }
+        ],
+        "line": 47
+      }
+    },
+    "s": {
+      "0": 17,
+      "1": 55,
+      "2": 55,
+      "3": 15,
+      "4": 15,
+      "5": 55,
+      "6": 410,
+      "7": 55,
+      "8": 20,
+      "9": 35,
+      "10": 700,
+      "11": 700,
+      "12": 290,
+      "13": 410,
+      "14": 5,
+      "15": 5,
+      "16": 11
+    },
+    "f": {
+      "0": 55,
+      "1": 15,
+      "2": 15,
+      "3": 410,
+      "4": 700,
+      "5": 5,
+      "6": 5,
+      "7": 11
+    },
+    "b": {
+      "0": [
+        20,
+        35
+      ],
+      "1": [
+        290,
+        410
+      ],
+      "2": [
+        700,
+        580
+      ],
+      "3": [
+        6,
+        29
+      ]
+    },
+    "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
+    "hash": "7100737283781438352e6b4e85aeef49d7a381f2"
+  },
+  "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\Home\\index.tsx": {
+    "path": "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\Home\\index.tsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 5,
           "column": 2
         },
         "end": {
-          "line": 19,
+          "line": 10,
           "column": 4
         }
       }
     },
     "fnMap": {
       "0": {
-        "name": "SSG",
-        "decl": {
-          "start": {
-            "line": 3,
-            "column": 24
-          },
-          "end": {
-            "line": 3,
-            "column": 27
-          }
-        },
-        "loc": {
-          "start": {
-            "line": 3,
-            "column": 30
-          },
-          "end": {
-            "line": 5,
-            "column": 1
-          }
-        },
-        "line": 3
-      },
-      "1": {
-        "name": "getStaticProps",
-        "decl": {
-          "start": {
-            "line": 9,
-            "column": 16
-          },
-          "end": {
-            "line": 9,
-            "column": 30
-          }
-        },
-        "loc": {
-          "start": {
-            "line": 9,
-            "column": 33
-          },
-          "end": {
-            "line": 20,
-            "column": 1
-          }
-        },
-        "line": 9
-      }
-    },
-    "branchMap": {},
-    "s": {
-      "0": 1,
-      "1": 1
-    },
-    "f": {
-      "0": 1,
-      "1": 1
-    },
-    "b": {},
-    "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
-    "hash": "93fb376ad815bb43d3f9a1d3ca4726bc2bb52eec"
-  },
-  "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\pages\\ssr.tsx": {
-    "path": "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\pages\\ssr.tsx",
-    "statementMap": {
-      "0": {
-        "start": {
-          "line": 5,
-          "column": 2
-        },
-        "end": {
-          "line": 5,
-          "column": 17
-        }
-      },
-      "1": {
-        "start": {
-          "line": 12,
-          "column": 23
-        },
-        "end": {
-          "line": 12,
-          "column": 40
-        }
-      },
-      "2": {
-        "start": {
-          "line": 14,
-          "column": 2
-        },
-        "end": {
-          "line": 14,
-          "column": 49
-        }
-      },
-      "3": {
-        "start": {
-          "line": 16,
-          "column": 2
-        },
-        "end": {
-          "line": 22,
-          "column": 3
-        }
-      }
-    },
-    "fnMap": {
-      "0": {
-        "name": "SSR",
+        "name": "HomePage",
         "decl": {
           "start": {
             "line": 4,
@@ -1811,60 +1758,32 @@
           },
           "end": {
             "line": 4,
-            "column": 27
+            "column": 32
           }
         },
         "loc": {
           "start": {
             "line": 4,
-            "column": 30
+            "column": 35
           },
           "end": {
-            "line": 6,
+            "line": 11,
             "column": 1
           }
         },
         "line": 4
-      },
-      "1": {
-        "name": "getServerSideProps",
-        "decl": {
-          "start": {
-            "line": 11,
-            "column": 16
-          },
-          "end": {
-            "line": 11,
-            "column": 34
-          }
-        },
-        "loc": {
-          "start": {
-            "line": 11,
-            "column": 37
-          },
-          "end": {
-            "line": 23,
-            "column": 1
-          }
-        },
-        "line": 11
       }
     },
     "branchMap": {},
     "s": {
-      "0": 0,
-      "1": 1,
-      "2": 1,
-      "3": 1
+      "0": 28
     },
     "f": {
-      "0": 0,
-      "1": 1
+      "0": 28
     },
     "b": {},
     "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
-    "hash": "3eb53cb31117f18a17176f4e0588f8a934035cdc"
+    "hash": "1f39d38cfea4071cdc35e70c5d953287923a8c53"
   },
   "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\pages\\index.tsx": {
     "path": "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\pages\\index.tsx",
@@ -1876,7 +1795,7 @@
         },
         "end": {
           "line": 4,
-          "column": 17
+          "column": 21
         }
       }
     },
@@ -1908,13 +1827,791 @@
     },
     "branchMap": {},
     "s": {
-      "0": 10
+      "0": 28
     },
     "f": {
-      "0": 10
+      "0": 28
     },
     "b": {},
     "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
-    "hash": "1ccb550b2d704242766ccac767672d87fddcb5b8"
+    "hash": "1a4827471ac90676803819d3da8a7e0a258d8af9"
+  },
+  "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\Swap\\index.tsx": {
+    "path": "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\Swap\\index.tsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 7,
+          "column": 13
+        },
+        "end": {
+          "line": 75,
+          "column": 1
+        }
+      },
+      "1": {
+        "start": {
+          "line": 8,
+          "column": 20
+        },
+        "end": {
+          "line": 13,
+          "column": 3
+        }
+      },
+      "2": {
+        "start": {
+          "line": 9,
+          "column": 16
+        },
+        "end": {
+          "line": 11,
+          "column": 5
+        }
+      },
+      "3": {
+        "start": {
+          "line": 14,
+          "column": 32
+        },
+        "end": {
+          "line": 14,
+          "column": 43
+        }
+      },
+      "4": {
+        "start": {
+          "line": 15,
+          "column": 42
+        },
+        "end": {
+          "line": 15,
+          "column": 55
+        }
+      },
+      "5": {
+        "start": {
+          "line": 16,
+          "column": 38
+        },
+        "end": {
+          "line": 16,
+          "column": 51
+        }
+      },
+      "6": {
+        "start": {
+          "line": 18,
+          "column": 30
+        },
+        "end": {
+          "line": 22,
+          "column": 3
+        }
+      },
+      "7": {
+        "start": {
+          "line": 19,
+          "column": 4
+        },
+        "end": {
+          "line": 21,
+          "column": 5
+        }
+      },
+      "8": {
+        "start": {
+          "line": 20,
+          "column": 8
+        },
+        "end": {
+          "line": 20,
+          "column": 18
+        }
+      },
+      "9": {
+        "start": {
+          "line": 23,
+          "column": 24
+        },
+        "end": {
+          "line": 23,
+          "column": 43
+        }
+      },
+      "10": {
+        "start": {
+          "line": 25,
+          "column": 20
+        },
+        "end": {
+          "line": 27,
+          "column": 3
+        }
+      },
+      "11": {
+        "start": {
+          "line": 26,
+          "column": 4
+        },
+        "end": {
+          "line": 26,
+          "column": 43
+        }
+      },
+      "12": {
+        "start": {
+          "line": 29,
+          "column": 20
+        },
+        "end": {
+          "line": 32,
+          "column": 3
+        }
+      },
+      "13": {
+        "start": {
+          "line": 30,
+          "column": 26
+        },
+        "end": {
+          "line": 30,
+          "column": 85
+        }
+      },
+      "14": {
+        "start": {
+          "line": 31,
+          "column": 4
+        },
+        "end": {
+          "line": 31,
+          "column": 28
+        }
+      },
+      "15": {
+        "start": {
+          "line": 34,
+          "column": 23
+        },
+        "end": {
+          "line": 37,
+          "column": 3
+        }
+      },
+      "16": {
+        "start": {
+          "line": 35,
+          "column": 24
+        },
+        "end": {
+          "line": 35,
+          "column": 50
+        }
+      },
+      "17": {
+        "start": {
+          "line": 36,
+          "column": 4
+        },
+        "end": {
+          "line": 36,
+          "column": 25
+        }
+      },
+      "18": {
+        "start": {
+          "line": 39,
+          "column": 2
+        },
+        "end": {
+          "line": 41,
+          "column": 29
+        }
+      },
+      "19": {
+        "start": {
+          "line": 40,
+          "column": 4
+        },
+        "end": {
+          "line": 40,
+          "column": 28
+        }
+      },
+      "20": {
+        "start": {
+          "line": 44,
+          "column": 2
+        },
+        "end": {
+          "line": 74,
+          "column": 3
+        }
+      },
+      "21": {
+        "start": {
+          "line": 48,
+          "column": 120
+        },
+        "end": {
+          "line": 48,
+          "column": 135
+        }
+      },
+      "22": {
+        "start": {
+          "line": 54,
+          "column": 24
+        },
+        "end": {
+          "line": 56,
+          "column": 25
+        }
+      },
+      "23": {
+        "start": {
+          "line": 55,
+          "column": 89
+        },
+        "end": {
+          "line": 55,
+          "column": 106
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 7,
+            "column": 13
+          },
+          "end": {
+            "line": 7,
+            "column": 14
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 19
+          },
+          "end": {
+            "line": 75,
+            "column": 1
+          }
+        },
+        "line": 7
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": {
+            "line": 9,
+            "column": 4
+          },
+          "end": {
+            "line": 9,
+            "column": 5
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 9,
+            "column": 16
+          },
+          "end": {
+            "line": 11,
+            "column": 5
+          }
+        },
+        "line": 9
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": {
+            "line": 18,
+            "column": 51
+          },
+          "end": {
+            "line": 18,
+            "column": 52
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 19,
+            "column": 4
+          },
+          "end": {
+            "line": 21,
+            "column": 5
+          }
+        },
+        "line": 19
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": {
+            "line": 19,
+            "column": 70
+          },
+          "end": {
+            "line": 19,
+            "column": 71
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 20,
+            "column": 8
+          },
+          "end": {
+            "line": 20,
+            "column": 18
+          }
+        },
+        "line": 20
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": {
+            "line": 25,
+            "column": 20
+          },
+          "end": {
+            "line": 25,
+            "column": 21
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 25,
+            "column": 32
+          },
+          "end": {
+            "line": 27,
+            "column": 3
+          }
+        },
+        "line": 25
+      },
+      "5": {
+        "name": "(anonymous_5)",
+        "decl": {
+          "start": {
+            "line": 29,
+            "column": 20
+          },
+          "end": {
+            "line": 29,
+            "column": 21
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 29,
+            "column": 39
+          },
+          "end": {
+            "line": 32,
+            "column": 3
+          }
+        },
+        "line": 29
+      },
+      "6": {
+        "name": "(anonymous_6)",
+        "decl": {
+          "start": {
+            "line": 34,
+            "column": 23
+          },
+          "end": {
+            "line": 34,
+            "column": 24
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 34,
+            "column": 67
+          },
+          "end": {
+            "line": 37,
+            "column": 3
+          }
+        },
+        "line": 34
+      },
+      "7": {
+        "name": "(anonymous_7)",
+        "decl": {
+          "start": {
+            "line": 39,
+            "column": 12
+          },
+          "end": {
+            "line": 39,
+            "column": 13
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 39,
+            "column": 16
+          },
+          "end": {
+            "line": 41,
+            "column": 3
+          }
+        },
+        "line": 39
+      },
+      "8": {
+        "name": "(anonymous_8)",
+        "decl": {
+          "start": {
+            "line": 48,
+            "column": 115
+          },
+          "end": {
+            "line": 48,
+            "column": 116
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 48,
+            "column": 120
+          },
+          "end": {
+            "line": 48,
+            "column": 135
+          }
+        },
+        "line": 48
+      },
+      "9": {
+        "name": "(anonymous_9)",
+        "decl": {
+          "start": {
+            "line": 53,
+            "column": 35
+          },
+          "end": {
+            "line": 53,
+            "column": 36
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 53,
+            "column": 62
+          },
+          "end": {
+            "line": 57,
+            "column": 21
+          }
+        },
+        "line": 53
+      },
+      "10": {
+        "name": "(anonymous_10)",
+        "decl": {
+          "start": {
+            "line": 55,
+            "column": 85
+          },
+          "end": {
+            "line": 55,
+            "column": 86
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 55,
+            "column": 89
+          },
+          "end": {
+            "line": 55,
+            "column": 106
+          }
+        },
+        "line": 55
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {
+            "line": 50,
+            "column": 74
+          },
+          "end": {
+            "line": 50,
+            "column": 118
+          }
+        },
+        "type": "cond-expr",
+        "locations": [
+          {
+            "start": {
+              "line": 50,
+              "column": 86
+            },
+            "end": {
+              "line": 50,
+              "column": 98
+            }
+          },
+          {
+            "start": {
+              "line": 50,
+              "column": 101
+            },
+            "end": {
+              "line": 50,
+              "column": 118
+            }
+          }
+        ],
+        "line": 50
+      },
+      "1": {
+        "loc": {
+          "start": {
+            "line": 51,
+            "column": 21
+          },
+          "end": {
+            "line": 59,
+            "column": 26
+          }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": {
+              "line": 51,
+              "column": 21
+            },
+            "end": {
+              "line": 51,
+              "column": 31
+            }
+          },
+          {
+            "start": {
+              "line": 51,
+              "column": 35
+            },
+            "end": {
+              "line": 59,
+              "column": 26
+            }
+          }
+        ],
+        "line": 51
+      },
+      "2": {
+        "loc": {
+          "start": {
+            "line": 62,
+            "column": 13
+          },
+          "end": {
+            "line": 71,
+            "column": 15
+          }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": {
+              "line": 62,
+              "column": 14
+            },
+            "end": {
+              "line": 62,
+              "column": 30
+            }
+          },
+          {
+            "start": {
+              "line": 62,
+              "column": 35
+            },
+            "end": {
+              "line": 71,
+              "column": 15
+            }
+          }
+        ],
+        "line": 62
+      }
+    },
+    "s": {
+      "0": 4,
+      "1": 22,
+      "2": 21,
+      "3": 21,
+      "4": 21,
+      "5": 21,
+      "6": 21,
+      "7": 4,
+      "8": 3,
+      "9": 21,
+      "10": 21,
+      "11": 9,
+      "12": 21,
+      "13": 9,
+      "14": 9,
+      "15": 21,
+      "16": 4,
+      "17": 4,
+      "18": 21,
+      "19": 9,
+      "20": 21,
+      "21": 4,
+      "22": 420,
+      "23": 1
+    },
+    "f": {
+      "0": 22,
+      "1": 21,
+      "2": 4,
+      "3": 3,
+      "4": 9,
+      "5": 9,
+      "6": 4,
+      "7": 9,
+      "8": 4,
+      "9": 420,
+      "10": 1
+    },
+    "b": {
+      "0": [
+        0,
+        21
+      ],
+      "1": [
+        21,
+        21
+      ],
+      "2": [
+        21,
+        21
+      ]
+    },
+    "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
+    "hash": "046afca46865e3a261cb33d78caa32d679c099ef"
+  },
+  "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\Trading\\index.tsx": {
+    "path": "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\components\\Trading\\index.tsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 6,
+          "column": 2
+        },
+        "end": {
+          "line": 11,
+          "column": 4
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "TradingPage",
+        "decl": {
+          "start": {
+            "line": 4,
+            "column": 24
+          },
+          "end": {
+            "line": 4,
+            "column": 35
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 38
+          },
+          "end": {
+            "line": 12,
+            "column": 1
+          }
+        },
+        "line": 4
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 5
+    },
+    "f": {
+      "0": 5
+    },
+    "b": {},
+    "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
+    "hash": "c43211815ed74c116d4bf5f626786abc9112a38c"
+  },
+  "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\pages\\trading.tsx": {
+    "path": "D:\\01_Blockchain Work\\92_react_web3\\Linkedin_Lee\\CryptoTradingApp\\pages\\trading.tsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 4,
+          "column": 2
+        },
+        "end": {
+          "line": 4,
+          "column": 25
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "Trading",
+        "decl": {
+          "start": {
+            "line": 3,
+            "column": 24
+          },
+          "end": {
+            "line": 3,
+            "column": 31
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 34
+          },
+          "end": {
+            "line": 5,
+            "column": 1
+          }
+        },
+        "line": 3
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 5
+    },
+    "f": {
+      "0": 5
+    },
+    "b": {},
+    "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
+    "hash": "21d9d3b344b22e19507dcf9ee649a3a67bfd46d2"
   }
 }

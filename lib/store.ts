@@ -22,12 +22,7 @@ export const useStore = zustandContext.useStore;
 
 export const initializeStore = (preloadedState = {}) => {
   return create(
-    combine({ ...initialState, ...preloadedState }, (set, get) => ({
-      reset: () => {
-        set({
-          token: get().token
-        })
-      },
+    combine({ ...initialState, ...preloadedState }, (set) => ({
       setToken: (token: string) => {
         set({
           token: token,
@@ -50,14 +45,7 @@ export const useCreateStore = (initialState: InitialState) => {
   // eslint complaining "React Hooks must be called in the exact same order in every component render"
   // is ignorable as this code runs in same order in a given environment
   // eslint-disable-next-line react-hooks/rules-of-hooks
-  useLayoutEffect(() => {
-    if (initialState && store) {
-      store.setState({
-        ...store.getState(),
-        ...initialState,
-      });
-    }
-  }, [initialState]);
-
+  
+  
   return () => store;
 };

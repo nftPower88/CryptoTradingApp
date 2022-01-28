@@ -47,8 +47,8 @@ const Swap = () => {
             <div className={styles.firstfield}>
                 <input id="crypto" type="number" placeholder="Crypto Amount" className={styles.inputbox} onChange={(e)=>handleChange(e)} value={cryptoAmount}/>  
                 <div className={styles.dropdown}>
-                    <span className={styles.controllabel}>{isLoading ? 'Loading...' : assetUnit?.symbol}</span>
-                    {!isLoading && <div className={styles.dropdowncontent}>
+                    <span id="swapasset" className={styles.controllabel}>{isLoading ? 'Loading...' : assetUnit?.symbol}</span>
+                    {!isLoading && <div id="swaplist" className={styles.dropdowncontent}>
                     {
                     data?.data.map((d: any, index: number) => {
                         return(

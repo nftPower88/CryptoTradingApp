@@ -30,31 +30,18 @@ const Login = () => {
   const handleSubmit = async (e: any) => {
     e.preventDefault();
 
-    signin(e.target.email.value, e.target.password.value).then(
-      () => {
-        //window.location.reload();
-      },
-      (error: any) => {
-        const resMessage =
-          (error.response &&
-            error.response.data &&
-            error.response.data.message) ||
-          error.message ||
-          error.toString();
-        console.log(resMessage);
-      }
-    );
+    signin(e.target.email.value, e.target.password.value);
   }
 
   return (
     <>
-      <button onClick={()=>setOpen(true)} className={styles.buttonmodal}>
+      <button id="login" onClick={()=>setOpen(true)} className={styles.buttonmodal}>
           Login
       </button>
-      {open && <div className={styles.modal}>
+      {open && <div id="modal" className={styles.modal}>
         <div className={styles.modalContent}>
           <header className={styles.container}> 
-            <span onClick={()=>setOpen(false)} 
+            <span id="close" onClick={()=>setOpen(false)} 
             className={styles.close}>&times;</span>
             <h2>Login</h2>
           </header>
@@ -70,7 +57,7 @@ const Login = () => {
               </div>            
             </div>
             <footer className={styles.containerfooter}>
-              <button className={styles.login} type="submit">Login</button>
+              <button id="submit" className={styles.login} type="submit">Login</button>
             </footer>
           </form>
         </div>

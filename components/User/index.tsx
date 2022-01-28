@@ -10,7 +10,7 @@ const User = () => {
   );
   return (
     <>
-        <label>
+        <label id="userinfo">
             {token}
         </label>
         <style jsx>

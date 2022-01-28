@@ -19,7 +19,7 @@ const Assets = () => {
 
     return (
         <div>
-            <div className={styles.board}>            
+            <div id="assetboard" className={styles.board}>            
             { 
             data?.data.map((d: any, index: number) => {
                 const iconUri = 'https://messari.io/asset-images/' + d.id + '/32.png';
@@ -31,8 +31,8 @@ const Assets = () => {
                     <div className={styles.price}>{financial(d.metrics.market_data.price_usd)}$</div>
                     <div className={styles.control}>
                         <div className={styles.dropdown}>
-                            <span className={styles.controllabel}>Buy-Sel</span>
-                            <div className={styles.dropdowncontent}>
+                            <span id={'contlabel'+index} className={styles.controllabel}>Buy-Sel</span>
+                            <div id={'buysel'+index} className={styles.dropdowncontent}>
                                 <p className={styles.controlbutton} onClick={()=>console.log("Buy")}>Buy</p>
                                 <p className={styles.controlbutton} onClick={()=>console.log("Sell")}>Sell</p>
                             </div>
@@ -44,7 +44,7 @@ const Assets = () => {
             }
             </div>
             <div className={styles.expandbar}>
-                <button onClick={()=>setExpand(!expand)} className={styles.expandbutton}>{expand?'↑':'↓'}</button>
+                <button id="expand" onClick={()=>setExpand(!expand)} className={styles.expandbutton}>{expand?'↑':'↓'}</button>
             </div>
         </div>
     )

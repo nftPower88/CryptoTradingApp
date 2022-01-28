@@ -72,6 +72,10 @@
     display: block;
 }
 
+.dropdown:active .dropdowncontent {
+    display: block;
+}
+
 .controllabel {
     cursor: pointer;
 }

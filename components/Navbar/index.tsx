@@ -16,10 +16,10 @@ const Nav = () => {
       <h3>CryptoTradingApp</h3>
       <nav>
         <Link href="/">
-          <a>Home</a>
+          <a id="home">Home</a>
         </Link>
         <Link href="/trading">
-          <a>Trading</a>
+          <a id="trading">Trading</a>
         </Link>
         {token?.length > 0 ? <User/> : <Login/>}
         <style jsx>
